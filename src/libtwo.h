@@ -1,6 +1,6 @@
-#ifndef LIBONE_H
-#define LIBONE_H
+#ifndef LIBTWO_H
+#define LIBTWO_H
 
-void libone_function();
+void libtwo_function();
 
-#endif  // LIBONE_H
+#endif  // LIBTWO_H
